@@ -1,0 +1,6 @@
+{
+  "name": "Maa Durga Medical Hall",
+  "description": "Your Trusted Pharmacy in Paliganj, Bihar for Genuine Medicines, Healthcare Products, Baby Care, Medical Equipment, and WhatsApp Medicine Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
