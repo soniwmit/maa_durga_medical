@@ -287,7 +287,7 @@ export default function Footer() {
             <p>© {new Date().getFullYear()} माँ दुर्गा मेडिकल हॉल (Maa Durga Medical Hall). All rights reserved.</p>
             <p className="text-slate-400">
               Developed by{' '}
-              <a href="#" class="wmit-popup-trigger">Developed by WMIT</a>
+              <a href="#" class="wmit-popup-trigger"> WMIT</a>
             </p>
           </div>
         </div>
