@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maa-durga-medical-nine.vercel.app/sitemap.xml
